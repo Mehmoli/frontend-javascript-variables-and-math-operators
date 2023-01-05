@@ -34,7 +34,7 @@ const combinedWords = firstWord + secondWord;
 // Zorg dat er een spatie tussen zit zonder iets aan de originele variabelen te veranderen.        // geeft bijv. 'Henk Pieters' wanneer gelogd
 // ==========================================
 const myFirstName = "Mehmet Ali";
-const myLastName = "Gulec";
+const myLastName = "Gu---";
 const fullName = myFirstName + " " + myLastName;
 
 
